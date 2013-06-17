@@ -19,3 +19,5 @@ Once the application is up and running vist the eb url in your browser and you s
 ```
 
 Happy days!
+
+See blog post for more info: <http://leetreveil.roon.io/getting-a-python-2-7-project-running-on-elastic-beanstalk>
