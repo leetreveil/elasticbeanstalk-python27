@@ -11,7 +11,7 @@ eb start
 ``` 
 
 
-Once the application is up and running vist the eb url in your browser and you should see this output:
+Once the application is up and running vist the eb url in your browser and you should see this in your browser:
 
 ```
 2.7.3 (default, May 18 2012, 22:11:36) 
